@@ -52,12 +52,14 @@ Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını yaz
 	10) Tüm kitapların ortalama puanını bulunuz.
 
 
-DML (Data Manipulation Language)
-Veritabanındaki verileri eklemek, güncellemek veya silmek için kullanılır.
-Örnek komutlar:
+JOIN
+JOIN, DQL (Data Query Language) kapsamına girer çünkü veritabanından veri sorgulamak için kullanılır.
 
-INSERT (Veri ekleme)
+İki veya daha fazla tabloyu ilişkilendirip sonuçları sorgulamak için kullanılır.
 
-UPDATE (Veri güncelleme)
+AGGREGATION (Aggregate Functions)
+SUM(), COUNT(), AVG(), MAX(), MIN() gibi fonksiyonlar da DQL kapsamındadır.
 
-DELETE (Veri silme)
+Veri sorgularken toplama, ortalama, sayma gibi işlemler yapmak için kullanılırlar.
+
+
