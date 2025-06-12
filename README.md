@@ -52,3 +52,12 @@ Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını yaz
 	10) Tüm kitapların ortalama puanını bulunuz.
 
 
+DML (Data Manipulation Language)
+Veritabanındaki verileri eklemek, güncellemek veya silmek için kullanılır.
+Örnek komutlar:
+
+INSERT (Veri ekleme)
+
+UPDATE (Veri güncelleme)
+
+DELETE (Veri silme)
